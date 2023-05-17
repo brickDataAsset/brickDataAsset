@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brickDataAsset
-- 👀 I’m interested in Data Engineering best practices.
-- 🌱 I’m currently learning tools related to data engineering.
+- 👀 I’m interested in BI/Data Analyst best practices.
+- 🌱 I’m currently learning tools related to  BI/Data Analyst
 
 
 <!---
